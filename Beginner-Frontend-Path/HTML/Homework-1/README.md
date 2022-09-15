@@ -7,3 +7,5 @@ Electrical-Electronics Eng. & Business Management Student.
 
 ## New Path
 I am really excited to start learning front end development on patika.dev
+
+# [Patika.dev](https://app.patika.dev/yusufozdemirarslan)
