@@ -24,3 +24,6 @@ Pull requests are appreciated. For big changes, first start a thread to discuss 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# [Yusuf Özdemir Arslan](https://www.linkedin.com/in/yusufozdemirarslan/)
+# [Patika.dev Profilim](https://app.patika.dev/yusufozdemirarslan)
