@@ -1,6 +1,6 @@
 # Kodluyoruz First Repository
 
-This is the first repository I created in the [Kodluyoruz](https://www.kodluyoruz.org/) Front-end training. 
+This is the first repository I created in the [Kodluyoruz](https://www.kodluyoruz.org) Front-end training. 
 
 # Installation
 
