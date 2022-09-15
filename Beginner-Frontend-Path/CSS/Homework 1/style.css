@@ -9,46 +9,46 @@ ul{
     
 }
 
-.genel-link{
+.nav{
     list-style-type: none;
     
     }
 
 h1{
-    color:blueviolet;
+    color:rgb(28, 0, 80);
 }
 
-#anasayfa{
-    color:purple;
+#index-page{
+    color:rgb(3, 70, 42);
 }
-.link-genel{
+.nav-class{
     display:inline-block;
 }
 
 
 b{
-    color:blueviolet;
+    color:rgb(255, 51, 0);
 }
 a{
     text-decoration: none;
 }
 
-#urunler-list{
-    color:orange;
+#products-list{
+    color:rgb(206, 136, 7);
 
 }
 
-.urunler{
+.products{
     font-style: italic;
 }
 
 img{
-    width: 350px;
+    width: 360px;
 }
 
-.hakkimizda{
+.about-page{
     text-align: left;
 }
-.hakkimizda h3{
-    color:orange;
+.about-page h3{
+    color:rgb(184, 120, 3);
 }
