@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.genel-link{
+    list-style-type: none;
+    
+    }
+
+h1{
+    color:blueviolet;
+}
+
+#anasayfa{
+    color:purple;
+}
+.link-genel{
+    display:inline-block;
+}
+
+
+b{
+    color:blueviolet;
+}
+a{
+    text-decoration: none;
+}
+
+#urunler-list{
+    color:orange;
+
+}
+
+.urunler{
+    font-style: italic;
+}
+
+img{
+    width: 350px;
+}
+
+.hakkimizda{
+    text-align: left;
+}
+.hakkimizda h3{
+    color:orange;
+}
